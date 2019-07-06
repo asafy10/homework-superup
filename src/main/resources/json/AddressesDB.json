@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "city": "Ashkelon",
+    "street": "Ayala",
+    "houseNumber": 31,
+    "zipCode": 7870019
+  },
+  {
+    "id": 2,
+    "city": "Ashdod",
+    "street": "Hayalomim",
+    "houseNumber": 19,
+    "zipCode": 7761117
+  },
+  {
+    "id": 3,
+    "city": "Yavne",
+    "street": "Tiltan",
+    "houseNumber": 28,
+    "zipCode": 8155628
+  }
+]
